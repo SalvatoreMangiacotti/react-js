@@ -3,12 +3,17 @@ export default function Main() {
     return (
 
         <main>
+            <section className="hero">
 
-            <div className="blue_img">
-                <img src="../src/assets/images/blue.PNG" />
-            </div>
+                <div className="hero-img">
 
-            <h1>Fun facts about React!</h1>
+                    <h3>React is great! 🪐</h3>
+
+                </div>
+
+            </section>
+
+            <h1>Fun facts about React</h1>
 
             <ol className="fun_facts">
 

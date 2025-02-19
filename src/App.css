@@ -74,13 +74,32 @@ li a {
 
 /* Main Content */
 
-.blue_img {
+.hero {
 
   display: flex;
 
   justify-content: center;
 
+  align-items: center;
+
   padding: 1rem;
+
+}
+
+
+.hero-img {
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  height: 200px;
+
+  width: 50%;
+
+  background-image: url('../src/assets/images/blue.PNG');
 
 }
 
