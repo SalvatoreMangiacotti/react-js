@@ -1,0 +1,58 @@
+/* Resets */
+
+* {
+
+  margin: 0;
+
+  padding: 0;
+
+  box-sizing: border-box;
+
+}
+
+
+ul li {
+
+  list-style: none;
+
+}
+
+
+li a {
+
+  text-decoration: none;
+
+}
+
+
+/* NavBar */
+
+.awesome_nav {
+
+  background-color: rgb(70, 190, 260);
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+}
+
+
+.awesome-logo {
+
+  font-size: 3rem;
+
+}
+
+
+.awesome_nav ul {
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 1rem;
+
+}
