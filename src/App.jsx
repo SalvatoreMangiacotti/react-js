@@ -1,10 +1,10 @@
-// NavBar
+// Header
 
-import AwesomeNav from './components/Navbar'
+import Header from './components/Header'
 
-// Main Content
+// Main
 
-import MainContent from './components/MainContent'
+import Main from './components/Main'
 
 // Css
 
@@ -14,8 +14,8 @@ function App() {
 
   return (
     <>
-      <AwesomeNav />
-      <MainContent />
+      <Header />
+      <Main />
     </>
   )
 }

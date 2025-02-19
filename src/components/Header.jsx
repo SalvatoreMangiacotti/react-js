@@ -1,4 +1,4 @@
-export default function AwesomeNav() {
+export default function Header() {
 
     return (
 
