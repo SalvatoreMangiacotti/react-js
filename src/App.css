@@ -11,6 +11,11 @@
 }
 
 
+body {
+  font-family: "Noto Sans", serif;
+}
+
+
 ul li {
 
   list-style: none;
