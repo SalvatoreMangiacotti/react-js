@@ -25,6 +25,8 @@ export default function Main() {
 
             </ol>
 
+            <h2>Section 1 complete 🚀</h2>
+
         </main>
 
     )
