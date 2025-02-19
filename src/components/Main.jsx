@@ -25,7 +25,7 @@ export default function Main() {
 
             </ol>
 
-            <h2>Section 1 complete 🚀</h2>
+            <h3 className="section_one_complete">Congratulations - section one completed 🚀</h3>
 
         </main>
 
