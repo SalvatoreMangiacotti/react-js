@@ -2,27 +2,31 @@ export default function Header() {
 
     return (
 
-        <nav className="awesome_nav">
+        <header>
 
-            <div className="awesome-logo">🌞</div>
+            <nav className="awesome_nav">
 
-            <ul>
+                <div className="awesome-logo">🌞</div>
 
-                <li><a href="#">link</a></li>
+                <ul>
 
-                <li><a href="#">link</a></li>
+                    <li><a href="#">link</a></li>
 
-                <li><a href="#">link</a></li>
+                    <li><a href="#">link</a></li>
 
-                <li><a href="#">link</a></li>
+                    <li><a href="#">link</a></li>
 
-                <li><a href="#">link</a></li>
+                    <li><a href="#">link</a></li>
 
-                <li><a href="#">link</a></li>
+                    <li><a href="#">link</a></li>
 
-            </ul>
+                    <li><a href="#">link</a></li>
 
-        </nav>
+                </ul>
+
+            </nav>
+
+        </header>
 
     )
 
