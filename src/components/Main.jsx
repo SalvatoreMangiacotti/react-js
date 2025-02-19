@@ -4,7 +4,9 @@ export default function Main() {
 
         <main>
 
-            <img src="../src/assets/images/blue.PNG" />
+            <div className="blue_img">
+                <img src="../src/assets/images/blue.PNG" />
+            </div>
 
             <h1>Fun facts about React!</h1>
 
